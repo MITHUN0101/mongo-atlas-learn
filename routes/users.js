@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-mongoose.connect("mongodb+srv://mithuny1998:KZQvegMrP8EthbVD@cluster0.4vj8e0f.mongodb.net/?retryWrites=true&w=majority");
+mongoose.connect("mongodb+srv://mithundesigner01:test@cluster0.efwryap.mongodb.net/?retryWrites=true&w=majority");
 //mongoose.connect("mongodb://127.0.0.1:27017/formDataSavePractice");
 
 const userSchema = mongoose.Schema({
